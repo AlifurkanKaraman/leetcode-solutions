@@ -1,3 +1,8 @@
+# Problem: LeetCode 49 - Group Anagrams
+# Solution: Frequency Array (Hash Map)
+# Time Complexity: O(m * n)
+# Space Complexity: O(m)
+
 from typing import List
 
 class Solution:
