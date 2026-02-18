@@ -10,13 +10,15 @@ Instead of organizing purely by problem number, I structure my solutions by **Al
 * `/Sliding_Window`
 * `/Graphs_BFS_DFS`
 * `/Dynamic_Programming`
+* `/Hash_Table`
+
 
 ## 📊 Progress Tracker
 
 | Problem | Pattern | Difficulty | Time Complexity | Space Complexity | Language |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Hash Table | Medium | O(m * n) | O(m) | Python |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Bucket Sort | Medium | O(N) | O(N) | Python |
-| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Min-Heap | Medium | O(N log k) | O(N) | Python |
 
 ## 💡 Goals
 * Master the top 15 fundamental algorithmic patterns.
