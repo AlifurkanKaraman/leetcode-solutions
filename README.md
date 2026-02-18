@@ -19,6 +19,7 @@ Instead of organizing purely by problem number, I structure my solutions by **Al
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Hash Table | Medium | O(m * n) | O(m) | Python |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Bucket Sort | Medium | O(N) | O(N) | Python |
+| [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | String Manipulation | Medium | O(N) | O(N) | Python |
 
 ## 💡 Goals
 * Master the top 15 fundamental algorithmic patterns.
