@@ -11,6 +11,7 @@ Instead of organizing purely by problem number, I structure my solutions by **Al
 * `/Graphs_BFS_DFS`
 * `/Dynamic_Programming`
 * `/Hash_Table`
+* `/String_Manipulation`
 
 
 ## 📊 Progress Tracker
